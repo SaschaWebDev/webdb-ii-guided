@@ -5,5 +5,12 @@ module.exports = {
       filename: './data/produce.db3',
     },
     useNullAsDefault: true,
+
+    migrations: {
+      directory: './data/migration',
+    },
+    seeds: {
+      directory: './data/seeds',
+    },
   },
 };
