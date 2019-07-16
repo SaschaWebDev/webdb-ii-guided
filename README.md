@@ -2,6 +2,10 @@
 
 Guided project **DB II** Module.
 
+## Author
+
+Sascha Majewsky
+
 ## Prerequisites
 
 - [SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download) installed.
